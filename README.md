@@ -1,2 +1,2 @@
 Html basic syntax.
-..
+.
