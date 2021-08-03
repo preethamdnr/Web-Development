@@ -2,5 +2,3 @@ Html basic syntax.
 ..
 ..
 ..
-..
-
