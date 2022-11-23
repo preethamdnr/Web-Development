@@ -18,6 +18,12 @@ The basic structure of any HTML document is as follows:
 
 The HTML h1 element defines a main heading.
 <h1>Preetham</h1>
+<h2>Preetham</h2>
+<h3>Preetham</h3>
+<h4>Preetham</h4>
+<h5>Preetham</h5>
+<h6>Preetham</h6>
+varies in size of the text
 
 3. Paragraph Element
 
@@ -39,6 +45,53 @@ The HTML div element defines a container.
   <button>Get Started</button>
 </div>
 
+6. Images
+we can insert whatever image we want by
+<img src="" alt="" />
+
+7. <hr>
+we use this to draw an horizontal line 
+
+8. <br>
+It is used to break the line
+
+9.<strong></strong>, <b></b> 
+The above tags are useful to bold the content
+
+10. <em></em>, <i></i>
+The above tags are useful to italicize the content
+
+11. links
+<ahref=""> content </a>
+
+12. Lists
+There are three types of lists
+They are 1. orderes lists
+          <ol>
+          <li></li>
+          </ol>
+         2. unorderes lists
+         <ul>
+         <li></li>
+         </ul>
+         3. defination lists
+         <dl>
+         <dt></dt>
+         <dd></dd>
+         </dl>
+
+13. Tables
+<table>
+<tr></tr>
+</table>
+In the tables there are also table head, table body, table footer.
+<table>
+<thead></thead>
+<tbody></tbody>
+<tfooter></tfooter>
+</table>
+
+
 CSS Properties
 
 2. Text Align
@@ -53,6 +106,7 @@ Value	Description
 center	Aligns the text to               the center
 left	Aligns the text to the left
 right	Aligns the text to the right
+
 
 
 
