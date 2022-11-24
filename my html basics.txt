@@ -93,8 +93,22 @@ In the tables there are also table head, table body, table footer.
 
 
 CSS Properties
-
-2. Text Align
+1.Tag Selectors
+syntax
+selector{
+attributes
+}
+2.Class Selectors
+syntax
+.classname{
+attributes
+}
+3. Id Selectors
+#id{
+attributes
+}
+In all these three class has high priority than the other, and also id selectors can only be used in specific things not in all the cases 
+4. Text Align
 The CSS text-align property specifies the horizontal alignment of the text in an element.
 
 h-center {
